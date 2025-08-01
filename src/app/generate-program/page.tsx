@@ -1,9 +1,9 @@
 import React from 'react'
 
-const GenerateProgram = () => {
+const GenerateProgramPage = () => {
   return (
     <div>Generate Program</div>
   )
 }
 
-export default GenerateProgram
+export default GenerateProgramPage
